@@ -15,3 +15,4 @@ Assinam esse manifesto:
 
 - Pyladies Natal <@PyLadiesNatal>
 - PyLadies Recife <@PyLadiesRecife>
+- PyLadies Porto Alegre <@pyladiespoa>
