@@ -14,3 +14,4 @@ Queremos continuar e avançar esse trabalho. Em um momento peculiar na história
 Assinam esse manifesto:
 
 - Pyladies Natal <@PyLadiesNatal>
+- PyLadies Recife <@PyLadiesRecife>
