@@ -22,3 +22,6 @@ Assinam esse manifesto:
 
 ## PyLadies Porto Alegre <@pyladiespoa>
 - Andressa Cruz
+
+## PyLadies Rio <@rio_pyladies>
+- Bianca Rosa
