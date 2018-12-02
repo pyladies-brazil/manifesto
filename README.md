@@ -1,7 +1,7 @@
 # Pyladies pela diversidade
 ## Um manifesto de reafirmação da diversidade, pluralidade e democracia
 
-#### Este é um manifesto em permanente construção e representa apenas a visão dos capítulos que abaixo assinam. Se você deseja adicionar ideias e/ou sua assinatura a este manifesto, faça um PR editando este arquivo.
+#### Este é um manifesto em permanente construção e representa apenas a visão dos capítulos que abaixo assinam. Se você deseja adicionar ideias e/ou sua assinatura a este manifesto, faça um PR editando este arquivo. Se tiver dúvidas de como fazer isso, leia [esse](CONTRIBUTING.md) arquivo.
 
 Este é um manifesto pela diversidade e pluralidade na Comunidade Pyladies e, indiretamente, a todas as comunidades e participantes que de alguma forma se relacionam a ela. Em um momento decisivo como o que estamos passando, em que dentro da comunidade ocorreu um caso racista e que diante do tamanho de capítulos existentes no país precisamos reafirmar o óbvio: **viver em comunidade é respeitar e valorizar as diferenças, é se permitir transformar e ser transformado pelo outro**.
 
@@ -13,6 +13,15 @@ Queremos continuar e avançar esse trabalho. Em um momento peculiar na história
 
 Assinam esse manifesto:
 
-- Pyladies Natal <@PyLadiesNatal>
-- PyLadies Recife <@PyLadiesRecife>
-- PyLadies Porto Alegre <@pyladiespoa>
+## Pyladies Natal <@PyLadiesNatal>
+- Clara Nobre
+- Gabriela Cavalcante
+
+## PyLadies Recife <@PyLadiesRecife>
+- Lidiane Monteiro
+
+## PyLadies Porto Alegre <@pyladiespoa>
+- Andressa Cruz
+
+## PyLadies Rio <@rio_pyladies>
+- Bianca Rosa
