@@ -15,7 +15,7 @@ Assinam esse manifesto:
 
 ## Pyladies Natal <@PyLadiesNatal>
 - Clara Nobre
-- Gabriela Cavalcanti
+- Gabriela Cavalcante
 
 ## PyLadies Recife <@PyLadiesRecife>
 - Lidiane Monteiro
