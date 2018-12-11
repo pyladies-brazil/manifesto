@@ -12,7 +12,7 @@ Esse reflexo não se dá apenas em eventos e iniciativas pontuais, toda pessoa q
 Queremos continuar e avançar esse trabalho. Em um momento peculiar na história do país e do mundo, onde há o crescimento de iniciativas de ataque à diversidade, queremos reafirmar o nosso compromisso com este princípio muito caro ao nosso convívio e que vem dando bons frutos. Apoiamos e respeitamos também o equilíbrio entre as relações de gênero. A luta pela igualdade racial não é só nossa, deve ser de todas as pessoas.
 
 Assinam esse manifesto:
-  
+
 ## Pyladies Natal <@PyLadiesNatal>
 - Clara Nobre
 - Gabriela Cavalcante
@@ -29,3 +29,6 @@ Assinam esse manifesto:
 
 ## PyLadies Manaus <@pyladiesmanaus>
 - Juliany Raiol
+
+## PyLadies Caxias do Sul <@caxiaspyladies>
+- Eliane Faveron Maciel
