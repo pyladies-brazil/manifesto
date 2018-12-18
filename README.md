@@ -20,7 +20,7 @@ Assinam esse manifesto:
 ## PyLadies Recife <@PyLadiesRecife>
 - Lidiane Monteiro
 - Anicely Santos
-
+- Carine Neris
 ## PyLadies Porto Alegre <@pyladiespoa>
 - Andressa Cruz
 
