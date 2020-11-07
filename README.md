@@ -33,3 +33,6 @@ Assinam esse manifesto:
 
 ## PyLadies Caxias do Sul <@caxiaspyladies>
 - Eliane Faveron Maciel
+
+## PyLadies Paraíba <@pyladiespb>
+- Dandara Sousa
