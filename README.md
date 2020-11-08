@@ -32,3 +32,6 @@ Assinam esse manifesto:
 
 ## PyLadies Caxias do Sul <@caxiaspyladies>
 - Eliane Faveron Maciel
+
+## PyLadies Parnaíba <@pyladiesphb>
+- Emilly Horta
